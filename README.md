@@ -1,4 +1,4 @@
-# Riiid-Answe-Correctness-Prediction-ML2020Aut
+# Riiid-Answe-Correctness-Prediction-ML2020Autumn
 This is repository for "Riiid! Answer Correctness Prediction" competition, as project of Machine Learning, 2020 Autumn, THU.
 https://www.kaggle.com/c/riiid-test-answer-prediction
 ## Folders 
