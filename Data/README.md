@@ -1,1 +1,1 @@
-*Make sure : Give clear indication of used preprocessing*
+**Make sure : Give clear indication of used preprocessing**
